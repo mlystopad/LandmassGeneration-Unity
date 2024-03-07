@@ -1,2 +1,2 @@
 # LandmassGeneration_Unity
- Unity Procedural Landmass Generation following tutorial by SebastianLague
+ Unity Procedural Landmass Generation
